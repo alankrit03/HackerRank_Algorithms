@@ -1,0 +1,25 @@
+import java.util.*;
+
+
+public class Solution {
+    public static void main(String args[] ) {
+        Scanner alan=new Scanner(System.in);
+        int n=alan.nextInt();
+        int k=alan.nextInt();
+        int[]ar=new int[n];
+        for(int i=0;i<n;i++){
+            ar[i]=alan.nextInt();
+        }
+        int charged=alan.nextInt();
+        int actual=0;
+        for(int i=0;i<n;i++){
+            if(i!=k)
+                actual+=ar[i];
+        }
+        actual/=2;
+        if(actual==charged)
+            System.out.println("Bon Appetit");
+        if(charged>actual)
+            System.out.println(charged-actual);
+    }
+}

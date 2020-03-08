@@ -1,0 +1,85 @@
+import java.io.*;
+import java.math.*;
+import java.text.*;
+import java.util.*;
+import java.util.regex.*;
+
+public class Solution {
+
+
+    static int getTotalX(int[] a, int[] b) {
+
+        int x=a.length,y=b.length,result=0,trial=0,i,check;
+        int ck = x>y ? x : y;
+        String end="NO";
+
+        while (end.equals("NO")){
+            trial++;
+            check=1;
+
+            for (i=0 ; i<ck ; i+=1) {
+
+                if(x>i){
+                    if (trial%a[i] !=0)
+                        check=0;
+                }
+
+                if(y>i){
+                    if (b[i]%trial !=0){
+                        check=0;
+                    }
+                }
+            }
+
+            if (check==1){
+                System.out.println(result);
+                result++;
+            }
+
+
+            if (trial>b[0])
+                end="no";
+        }
+
+        return result;
+    }
+
+
+
+    private static final Scanner scan = new Scanner(System.in);
+
+    public static void main(String[] args) throws IOException {
+        BufferedWriter bw = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        String[] nm = scan.nextLine().split(" ");
+
+        int n = Integer.parseInt(nm[0].trim());
+
+        int m = Integer.parseInt(nm[1].trim());
+
+        int[] a = new int[n];
+
+        String[] aItems = scan.nextLine().split(" ");
+
+        for (int aItr = 0; aItr < n; aItr++) {
+            int aItem = Integer.parseInt(aItems[aItr].trim());
+            a[aItr] = aItem;
+        }
+
+        int[] b = new int[m];
+
+        String[] bItems = scan.nextLine().split(" ");
+
+        for (int bItr = 0; bItr < m; bItr++) {
+            int bItem = Integer.parseInt(bItems[bItr].trim());
+            b[bItr] = bItem;
+        }
+
+        int total = getTotalX(a, b);
+
+        bw.write(String.valueOf(total));
+        bw.newLine();
+
+        bw.close();
+    }
+}

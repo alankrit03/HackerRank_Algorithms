@@ -1,0 +1,88 @@
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    // Complete the timeInWords function below.
+    static String timeInWords(int h, int m) {
+
+        // Time converter Database
+        HashMap<Integer,String> timecon=new HashMap<>();
+        timecon.put(1,"one");
+        timecon.put(2,"two");
+        timecon.put(3,"three");
+        timecon.put(4,"four");
+        timecon.put(5,"five");
+        timecon.put(8,"eight");
+        timecon.put(6,"six");
+        timecon.put(7,"seven");
+        timecon.put(9,"nine");
+        timecon.put(10,"ten");
+        timecon.put(11,"eleven");
+        timecon.put(12,"twelve");
+        timecon.put(13,"thirteen");
+        timecon.put(14,"fourteen");
+        timecon.put(15,"quarter");
+        timecon.put(16,"sixteen");
+        timecon.put(17,"seventeen");
+        timecon.put(18,"eighteen");
+        timecon.put(19,"nineteen");
+        timecon.put(20,"twenty");
+        timecon.put(21,"twenty one");
+        timecon.put(22,"twenty two");
+        timecon.put(23,"twenty three");
+        timecon.put(24,"twenty four");
+        timecon.put(25,"twenty five");
+        timecon.put(26,"twenty six");
+        timecon.put(27,"twenty seven");
+        timecon.put(28,"twenty eight");
+        timecon.put(29,"twenty nine");
+
+        if (m<30){
+            if (m==0)
+                return (timecon.get(h)+" o' clock");
+            else if(m==1)
+                return (timecon.get(1)+" minute past "+timecon.get(h));
+            else if(m==15)
+                return (timecon.get(m)+" past "+timecon.get(h));
+            else
+                return (timecon.get(m)+" minutes past "+timecon.get(h));
+        }
+        else if (m>30){
+            if(m==59)
+                return ("one minute to "+timecon.get(h+1));
+            else if(m==45)
+                return (timecon.get(60-m)+" to "+timecon.get(h+1));
+            else
+                return (timecon.get(60-m)+" minutes to "+timecon.get(h+1));
+        }
+        else
+            return ("half past "+timecon.get(h));
+    }
+
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) throws IOException {
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        int h = scanner.nextInt();
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+        int m = scanner.nextInt();
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+        String result = timeInWords(h, m);
+
+        bufferedWriter.write(result);
+        bufferedWriter.newLine();
+
+        bufferedWriter.close();
+
+        scanner.close();
+    }
+}
