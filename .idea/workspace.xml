@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43dba5ed-37bc-4d23-85a0-f729a52026f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alternating Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beautiful Binary String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big Sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Caesar Cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CamelCase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Closest Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Correctness and the Loop Invariant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counting Sort 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counting Sort 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Find the Median.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funny String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemstones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank in a String!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ice Cream Parlor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion Sort - Part 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion Sort - Part 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro to Tutorial Challenges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mars Exploration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pangrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksort 1 - Partition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Running Time of Algorithms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strong Password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Super Reduced String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Love-Letter Mystery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +45,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YpuOLbl8MEHaQB7pQ0KrQ6qMY7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,9 +70,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583651831956">
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584169597356">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583651831956" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584169597356" />
   </component>
 </project>
