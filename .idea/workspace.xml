@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43dba5ed-37bc-4d23-85a0-f729a52026f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/The Full Counting Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The Power Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonacci Modified.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grid Challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jim and the Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lonely Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Luck Balance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Marc's Cakewalk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mark and Toys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Max Min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maximizing XOR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maximum Perimeter Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Permuting Two Arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Priyanka and Toys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sherlock and The Beast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tower Breakers.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
