@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43dba5ed-37bc-4d23-85a0-f729a52026f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Alternating Characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Binary String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Big Sorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Caesar Cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamelCase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Closest Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Correctness and the Loop Invariant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Counting Sort 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Counting Sort 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Find the Median.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funny String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemstones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank in a String!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ice Cream Parlor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Insertion Sort - Part 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Insertion Sort - Part 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intro to Tutorial Challenges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mars Exploration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pangrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quicksort 1 - Partition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Running Time of Algorithms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strong Password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Super Reduced String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The Love-Letter Mystery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Two Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Full Counting Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Power Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +33,56 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RunManager" selected="Python.The Power Sum">
+    <configuration name="The Full Counting Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Full Counting Sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="The Power Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Power Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.The Power Sum" />
+        <item itemvalue="Python.The Full Counting Sort" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -70,9 +97,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1584283509397">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584283509397" />
+    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1584283509397">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584283509397" />
+    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1584283509396">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584283509396" />
+    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1584283509397">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584283509397" />
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584169597356">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584169597356" />
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1584282275532">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1584282275532" />
   </component>
 </project>
