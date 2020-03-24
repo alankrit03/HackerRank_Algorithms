@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43dba5ed-37bc-4d23-85a0-f729a52026f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Fibonacci Modified.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grid Challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jim and the Orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lonely Integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Luck Balance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Marc's Cakewalk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mark and Toys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Max Min.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maximizing XOR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maximum Perimeter Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Permuting Two Arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Priyanka and Toys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sherlock and The Beast.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tower Breakers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Happy Ladybugs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K Factorization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursive Digit Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stone Division, Revisited.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +35,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.The Power Sum">
-    <configuration name="The Full Counting Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Stone Division, Revisited">
+    <configuration name="Happy Ladybugs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRank_Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +48,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Full Counting Sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Happy Ladybugs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="K Factorization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K Factorization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Recursive Digit Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursive Digit Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stone Division, Revisited" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stone Division, Revisited.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,8 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Stone Division, Revisited" />
+        <item itemvalue="Python.K Factorization" />
+        <item itemvalue="Python.Recursive Digit Sum" />
+        <item itemvalue="Python.Happy Ladybugs" />
         <item itemvalue="Python.The Power Sum" />
-        <item itemvalue="Python.The Full Counting Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -109,22 +165,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1584283509397">
+    <state width="1514" height="297" key="GridCell.Tab.0.bottom" timestamp="1585046907977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584283509397" />
-    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1584283509397">
+    <state width="1514" height="297" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585046907977" />
+    <state width="1514" height="297" key="GridCell.Tab.0.center" timestamp="1585046907976">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584283509397" />
-    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1584283509396">
+    <state width="1514" height="297" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585046907976" />
+    <state width="1514" height="297" key="GridCell.Tab.0.left" timestamp="1585046907976">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584283509396" />
-    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1584283509397">
+    <state width="1514" height="297" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585046907976" />
+    <state width="1514" height="297" key="GridCell.Tab.0.right" timestamp="1585046907976">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584283509397" />
+    <state width="1514" height="297" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585046907976" />
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584169597356">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
