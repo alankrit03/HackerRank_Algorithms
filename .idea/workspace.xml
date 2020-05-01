@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43dba5ed-37bc-4d23-85a0-f729a52026f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Counter game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flipping bits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sansa and XOR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sum vs XOR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connected Cells in a Grid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
