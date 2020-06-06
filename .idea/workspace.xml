@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43dba5ed-37bc-4d23-85a0-f729a52026f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Connected Cells in a Grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D Surface Area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AND Product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bear and Steady Gene.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beautiful Triplets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bigger is Greater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common Child.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flatland Space Stations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Thrones - I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Highest Value Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lisa's Workbook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Making Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manasa and Stones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minimum Distances.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Organizing Containers of Balls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picking Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sequence Equation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sherlock and Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sherlock and the Valid String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String Construction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Grid Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weighted Uniform Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xoring Ninja.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.INT to BIN">
+  <component name="RunManager" selected="Python.Highest Value Palindrome">
     <configuration name="BIN to INT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRank_Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +76,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Highest Value Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Highest Value Palindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="INT to BIN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRank_Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,27 +110,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INT to BIN.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="K Factorization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HackerRank_Algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K Factorization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Highest Value Palindrome" />
         <item itemvalue="Python.INT to BIN" />
         <item itemvalue="Python.BIN to INT" />
         <item itemvalue="Python.Sum vs XOR" />
         <item itemvalue="Python.Stone Division, Revisited" />
-        <item itemvalue="Python.K Factorization" />
       </list>
     </recent_temporary>
   </component>
@@ -162,26 +184,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1514" height="297" key="GridCell.Tab.0.bottom" timestamp="1587468070616">
+    <state width="1514" height="297" key="GridCell.Tab.0.bottom" timestamp="1590123314022">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="297" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587468070616" />
-    <state width="1514" height="297" key="GridCell.Tab.0.center" timestamp="1587468070616">
+    <state width="1514" height="297" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590123314022" />
+    <state width="1514" height="297" key="GridCell.Tab.0.center" timestamp="1590123314022">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="297" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587468070616" />
-    <state width="1514" height="297" key="GridCell.Tab.0.left" timestamp="1587468070616">
+    <state width="1514" height="297" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590123314022" />
+    <state width="1514" height="297" key="GridCell.Tab.0.left" timestamp="1590123314022">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="297" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587468070616" />
-    <state width="1514" height="297" key="GridCell.Tab.0.right" timestamp="1587468070616">
+    <state width="1514" height="297" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590123314022" />
+    <state width="1514" height="297" key="GridCell.Tab.0.right" timestamp="1590123314022">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="297" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587468070616" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587616272693">
+    <state width="1514" height="297" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590123314022" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1588352371009">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587616272693" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1588352371009" />
     <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1584282275532">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
